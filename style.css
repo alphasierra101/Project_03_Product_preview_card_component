@@ -111,7 +111,7 @@ body {
     }
 
     .img_container img {
-        content: url("/images/image-product-mobile.jpg");
+        content: url("./images/image-product-mobile.jpg");
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         border-bottom-left-radius: 0px;
